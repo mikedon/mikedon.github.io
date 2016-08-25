@@ -14,6 +14,6 @@ author:
   linkedin: # profile-id
   email_md5: '' # used for gravatar sidebar user image
 
-BASE_PATH:./
+BASE_PATH:
 
 rss_path: rss.xml
